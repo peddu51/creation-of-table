@@ -1,0 +1,6 @@
+ create database student
+ (
+ stu name varchar(20),
+ stu id int(10),
+ stu phone int(10),
+ );
